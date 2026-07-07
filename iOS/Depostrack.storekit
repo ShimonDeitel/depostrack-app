@@ -1,0 +1,42 @@
+{
+  "identifier": "MASTER",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_locale": "en_US"
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21000001",
+      "localizations": [],
+      "name": "Depostrack Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "3.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "depostrack_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Auto-reconcile deposits against final invoice totals",
+              "displayName": "Depostrack Pro Monthly",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "depostrack_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Depostrack Pro Monthly",
+          "subscriptionGroupID": "21000001",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
